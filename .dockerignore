@@ -1,6 +1,10 @@
 node_modules
-dist
 .env
 .env.*
 .git
 .gitignore
+src
+tsconfig*
+vite.config.ts
+package*.json
+index.html
